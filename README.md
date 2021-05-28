@@ -2,6 +2,10 @@
 <img src="https://i.imgur.com/sQF2Jp3.png">
 <p>Uma reprodução do jogo FlappyBird usando html, css e javaScript,<br> que roda direto do navegador.
 
+<h2>Como Jogar:</h2>
+<ol>
+<li>Execute o arquivo (index.html)</li>
+</ol>
 </p>
 <br>
 <h2>Controles:</h2>
