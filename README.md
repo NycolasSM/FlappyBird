@@ -4,7 +4,7 @@
 
 <h2>Como Jogar:</h2>
 <ol>
-<li>Execute o arquivo (index.html)</li>
+<li>Execute o arquivo (flappy.html)</li>
 </ol>
 </p>
 <br>
